@@ -1,0 +1,9 @@
+.idea
+*.iml
+target
+repositories
+catalog-v001.xml
+**/bundle.js
+**/generated-sources
+**/java-generated
+**/npm-debug.log
